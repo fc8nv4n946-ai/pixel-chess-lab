@@ -1,0 +1,20 @@
+Pixel Chess Lab — Copyright (C) 2026 Pixel Chess Lab contributors.
+Application code and original pixel artwork: GPL-3.0-or-later.
+Source: https://github.com/fc8nv4n946-ai/pixel-chess-lab
+This software is provided without warranty. See GPL-3.0.txt.
+
+Stockfish.js 19.0.1 / Stockfish 19 lite single-threaded (unmodified).
+Copyright (C) 2004–2026 Stockfish developers; JavaScript port by Nathan Rugg,
+Chess.com and contributors. Derived from Glaurung 2.1.
+License: GPL version 3 (or later where specified in upstream files).
+Upstream: https://github.com/nmrugg/stockfish.js/tree/v19.0.1
+Exact upstream tag commit: 8d9ca57043594a8fa6ae0b73fb685d9105bf51df
+Binaries: npm stockfish@19.0.1, bin/stockfish-19-lite-single.{js,wasm}.
+Corresponding source including C++, JS glue and build scripts is provided
+alongside this notice as stockfish-js-v19.0.1-source.tar.gz.
+See SOURCE.md for rebuild instructions, neural-network data and checksums.
+See Stockfish-AUTHORS.txt for authors; GPL-3.0.txt for full license.
+
+chess.js — Copyright (c) 2025 Jeff Hlywa; BSD-2-Clause.
+React — Copyright (c) Meta Platforms, Inc. and affiliates; MIT.
+See dependency-licenses.txt for their license texts.
